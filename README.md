@@ -17,4 +17,4 @@ python predict.py -c config.json -w saved_weights.h5(path of the saved weight sh
 ![Road with potholes detected](image/potholes63_detected.jpg?raw=true "Road with Potholes Detected")
 
 
-To Visualize detected potholes on google map simply go through maps.ipynb . 
+## Now to Visualize detected potholes on google map simply go through maps.ipynb . 
