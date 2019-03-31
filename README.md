@@ -11,4 +11,4 @@ Model is trained on a dataset containing 259 images having a total of 829 pothol
 ![Road with potholes](image/potholes63.jpg?raw=true "Road with Potholes")
 
 ## Detected potholes
-![Road with potholes detected](images/potholes63_detected.jpg?raw=true "Road with Potholes Detected")
+![Road with potholes detected](image/potholes63_detected.jpg?raw=true "Road with Potholes Detected")
