@@ -1,6 +1,13 @@
 # POCONet
 Road Way to Safety
 
+## Collaborators
+
+- [Rahul Goswami](https://github.com/goswami-rahul)
+- [Ravi Singh Patel](https://github.com/Ravisp946)
+- [Deepak Singh](https://github.com/deepaksingh11)
+- [Pankaj Pundir](https://github.com/pankaj-pundir)
+
 CNN Model
 
 We are using YOLOv2 model architecture to detect potholes.<br/>
