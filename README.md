@@ -8,7 +8,7 @@ Road Way to Safety
 - [Deepak Singh](https://github.com/deepaksingh11)
 - [Pankaj Pundir](https://github.com/pankaj-pundir)
 
-CNN Model
+## CNN Model
 
 We are using YOLOv2 model architecture to detect potholes.<br/>
 Model is trained on a dataset containing 259 images having a total of 829 potholes in them.
